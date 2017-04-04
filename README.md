@@ -13,10 +13,10 @@ Categorical list of ML and DL related challenges/contests. (Mostly CV related as
 - [Challenges in Machine Learning](http://www.chalearn.org/challenges.html)
 
 # Computer Vision
+- [DAVIS Challenge](http://davischallenge.org/) - Densely Annotated VIdeo Segmentation
 - [EmotiW](https://sites.google.com/site/emotiw2016/) - Facial Expressions in the Wild
   - Video based emotion recognition sub-challenge
   - Group level emotion recognition sub-challenge
-  
 - [ActivityNet](http://activity-net.org/challenges/2016/) - Large Scale Activity Recognition Challenge
   - **Untrimmed Classification Challenge**: Given a long video, predict the labels of the activities present in the video. 
   - **Detection Challenge**: Given a long video, predict the labels and temporal extents of the activities present in the video.
