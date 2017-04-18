@@ -11,6 +11,7 @@ Categorical list of ML and DL related challenges/contests. (Mostly CV related as
 - [CrowdAI](https://www.crowdai.org/)
 - [grand-challenge](https://grand-challenge.org/All_Challenges/) - Challenges in Medical Image Analysis
 - [Challenges in Machine Learning](http://www.chalearn.org/challenges.html)
+- [Artificial Intelligence - Open Network](http://ai-on.org/) - Collection of open research problems
 
 # Computer Vision
 - [DAVIS Challenge](http://davischallenge.org/) - Densely Annotated VIdeo Segmentation
