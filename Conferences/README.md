@@ -11,6 +11,7 @@
 # Bio-Medical related:
 - International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
 - IEEE International Symposium on Biomedical Imaging (ISBI)
+- [SIIM Scientific Conference on Machine Intelligence in Medical Imaging (MIMI)](https://siim.org/page/2016CMIMI)
 - IEEE Transaction on Medical Imaging (IEEE-TMI)
 - Medical Image Analysis (MedIA)
 
