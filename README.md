@@ -53,4 +53,9 @@ Challenges (associated with workshops) in ICCV 2017
 9. [Visual Object Tracking - VOT 2017](http://www.votchallenge.net/vot2017/index.html)
 10. [Task-CV Workshop](http://adas.cvc.uab.es/task-cv2017/)
     - Domain Adaptation [Challenge](http://ai.bu.edu/visda-2017/)
+    
+# Healthcare - Medical Imaging
+
+- Great resource for loads of relevant challenges - [grand-challenge](https://grand-challenge.org/All_Challenges/)
+- [Physionet Challenges](https://physionet.org/challenge/) - In cooperation with the annual [Computing in Cardiology](http://www.cinc.org/) conference
 
