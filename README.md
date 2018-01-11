@@ -20,12 +20,33 @@ Categorical list of ML and DL related challenges/contests. (Mostly CV related as
   - Video based emotion recognition sub-challenge
   - Group level emotion recognition sub-challenge
 
-## CVPR 17
-Challenges (associated with workshops) in CVPR 2017
-1. [ActivityNet](http://activity-net.org/challenges/2017/) - Large Scale Activity Recognition Challenge
-    - **Untrimmed Classification Challenge**: Given a long video, predict the labels of the activities present in the video. 
-    - **Detection Challenge**: Given a long video, predict the labels and temporal extents of the activities present in the video.
-2. [DAVIS Challenge](http://davischallenge.org/) - Densely Annotated VIdeo Segmentation
+## CVPR 18
+Challenges (associated with workshops) in CVPR 2018
+
+1. [First International Workshop on Disguised Faces in the Wild](http://iab-rubric.org/dfw.html)
+2. [Low-Power Image Recognition Challenge](https://rebootingcomputing.ieee.org/lpirc)
+3. [NVIDIA AI City Challenge](http://www.aicitychallenge.org/)
+4. [VQA Challenge and Visual Dialog Workshop](http://visualqa.org/workshop)
+5. [Visual Understanding of Humans in Crowd Scene and the 2nd Look Into Person (LIP) Challenge](https://vuhcs.github.io/)
+6. [The Fifth Workshop on Fine-Grained Visual Categorization](http://fgvc.org/FGVC5/)
+7. [Robust Vision Challenge](http://www.robustvision.net/)
+8. [Workshop and Challenge on Learnt Image Compression](http://compression.cc/)
+9. [Large-Scale Landmark Recognition: A Challenge](https://landmarkscvprw18.github.io/)
+10. [The DAVIS Challenge on Video Object Segmentation 2018](http://davischallenge.org/challenge2018/)
+11. [Bridging the Gap between Computational Photography and Visual Recognition: the UG^2 Price Challenge](http://ug2challenge.org/)
+12. [3rd New Trends in Image Restoration and Enhancement workshop and challenges](http://www.vision.ee.ethz.ch/en/ntire18/)
+13. [The 2nd CVPR Workshop on Visual Understanding by Learning from Web Data](http://www.vision.ee.ethz.ch/webvision/workshop/2018/index.html)
+14. [ActivityNet Large Scale Activity Recognition Challenge 2018](http://www.activity-net.org/challenges/2018/index.html)
+
+##### Dataset only 
+
+1. [Towards Automatic Understanding of Visual Advertisements](http://people.cs.pitt.edu/~kovashka/ads_workshop/)
+
+##### Not sure as website not up yet
+
+1. [The First Workshop on Joint Detection, Tracking, and Prediction in the wild](http://trajnet.stanford.edu/workshops/2018/)
+2. DeepGlobe: A Challenge for Parsing the Earth through Satellite Images
+
 
 ## ICCV 17
 Challenges (associated with workshops) in ICCV 2017
@@ -40,7 +61,7 @@ Challenges (associated with workshops) in ICCV 2017
     - Fake vs. true facial emotion recognition
     - Large-scale isolated gesture recognition
     - Large-scale continous gesture recognition
-6. [The Joint Video and Language Understanding Workshop](https://sites.google.com/site/describingmovies/workshop-at-iccv-17)  
+6. [The Joint Video and Language Understanding Workshop](https://sites.google.com/site/describingmovies/workshop-at-iccv-17) 
    - [MovieQA: Story Understanding Benchmark](http://movieqa.cs.toronto.edu/home/
     - [The Large Scale Movie Description Challenge](https://sites.google.com/site/describingmovies/lsmdc-2017)
 7. [PoseTrack Challenge](https://posetrack.net/workshops/iccv2017/)
@@ -53,7 +74,14 @@ Challenges (associated with workshops) in ICCV 2017
 9. [Visual Object Tracking - VOT 2017](http://www.votchallenge.net/vot2017/index.html)
 10. [Task-CV Workshop](http://adas.cvc.uab.es/task-cv2017/)
     - Domain Adaptation [Challenge](http://ai.bu.edu/visda-2017/)
-    
+
+## CVPR 17
+Challenges (associated with workshops) in CVPR 2017
+1. [ActivityNet](http://activity-net.org/challenges/2017/) - Large Scale Activity Recognition Challenge
+    - **Untrimmed Classification Challenge**: Given a long video, predict the labels of the activities present in the video. 
+    - **Detection Challenge**: Given a long video, predict the labels and temporal extents of the activities present in the video.
+2. [DAVIS Challenge](http://davischallenge.org/) - Densely Annotated VIdeo Segmentation
+
 # Healthcare - Medical Imaging
 
 - Great resource for loads of relevant challenges - [grand-challenge](https://grand-challenge.org/All_Challenges/)
