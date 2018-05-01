@@ -9,16 +9,44 @@ Categorical list of ML and DL related challenges/contests. (Mostly CV related as
 
 # Platforms and Websites
 - [Kaggle](https://www.kaggle.com/)
-- [CodaLab](http://codalab.org/)
 - [CrowdAI](https://www.crowdai.org/)
+- [DrivenData](https://www.drivendata.org)
+
+## Research oriented
+- [evalAI](https://evalai.cloudcv.org/)
+- [CodaLab](http://codalab.org/)
 - [grand-challenge](https://grand-challenge.org/All_Challenges/) - Challenges in Medical Image Analysis
-- [Challenges in Machine Learning](http://www.chalearn.org/challenges.html)
 - [Artificial Intelligence - Open Network](http://ai-on.org/) - Collection of open research problems
+- [Challenges in Machine Learning](http://www.chalearn.org/challenges.html)
 
 # Computer Vision
 - [EmotiW](https://sites.google.com/site/emotiw2016/) - Facial Expressions in the Wild
   - Video based emotion recognition sub-challenge
   - Group level emotion recognition sub-challenge
+  
+## ECCV 18
+Challenges (associated with workshops) in ECCV 2018
+
+1. [OpenImages Challenge](https://storage.googleapis.com/openimages/web/challenge.html)
+2. [Vision Meets Drone: A Challenge](http://aiskyeye.com/)
+3. [COCO + Mapillary Challenge](http://cocodataset.org/workshop/coco-mapillary-eccv-2018.html)
+4. [Wider Face And Pedestrian Challenge](http://www.wider-challenge.org/)
+5. [PoseTrack Challenge](https://posetrack.net/workshops/eccv2018/)
+6. [Observing and Understanding Hands in Action (HANDS2018)](https://sites.google.com/view/hands2018/challenge)
+7. [Person in Context (PIC) Workshop and Challenge](http://www.picdataset.com/)
+8. [Youtube-8M Large-Scale Video Understanding](https://eccv2018.org/program/workshops_tutorials/)
+9. [Perceptual Image Restoration and Manipulation (PIRM) Workshop and Challenge](https://www.pirm2018.org/)
+10. [5th TASK-CV: Transferring and Adapting Source Knowledge in Computer Vision and 2nd VisDA Challenge](https://sites.google.com/view/task-cv2018)
+11. [Bias Estimation in Face Analytics](https://sites.google.com/site/eccvbefa2018/)
+12. [The Visual Object Tracking Challenge Workshop VOT2018](http://www.votchallenge.net/vot2018/)
+13. [ChaLearn Challenges on Image and Video Inpainting](http://chalearnlap.cvc.uab.es/challenge/26/description/)
+14. [Challenge of Fashion Image Generation](https://sites.google.com/view/eccvfashion/fashion-challenge)
+
+##### Website not up yet
+1. [1st Large-scale Video Object Segmentation Challenge](https://eccv2018.org/program/workshops_tutorials/)
+2. [VizWiz Grand Challenge: Answering Visual Questions from Blind People](https://arxiv.org/abs/1802.08218)
+3. [ApolloScape: 3D Understanding for Autonomous Driving](https://eccv2018.org/program/workshops_tutorials/)
+4. [2nd Workshop on Youtube-8M Large-Scale Video Understanding](https://research.google.com/workshop2017/)
 
 ## CVPR 18
 Challenges (associated with workshops) in CVPR 2018
@@ -37,10 +65,7 @@ Challenges (associated with workshops) in CVPR 2018
 12. [3rd New Trends in Image Restoration and Enhancement workshop and challenges](http://www.vision.ee.ethz.ch/en/ntire18/)
 13. [The 2nd CVPR Workshop on Visual Understanding by Learning from Web Data](http://www.vision.ee.ethz.ch/webvision/workshop/2018/index.html)
 14. [ActivityNet Large Scale Activity Recognition Challenge 2018](http://www.activity-net.org/challenges/2018/index.html)
-
-##### Dataset only 
-
-1. [Towards Automatic Understanding of Visual Advertisements](http://people.cs.pitt.edu/~kovashka/ads_workshop/)
+15. [Towards Automatic Understanding of Visual Advertisements](http://people.cs.pitt.edu/~kovashka/ads_workshop/)
 
 ##### Not sure as website not up yet
 
