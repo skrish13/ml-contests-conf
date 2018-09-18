@@ -26,5 +26,10 @@
 - CVPR
 - ICCV
 - ECCV
-- [BMVC](https://bmvc2017.london/)
 - Others including ... (ICML, ICLR, NIPS)
+- [BMVC](https://bmvc2017.london/)
+- WACV
+- ACCV
+#### Journals
+- [IEEE-TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
+- [Elsevier-CVIU](https://www.journals.elsevier.com/computer-vision-and-image-understanding)
