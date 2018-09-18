@@ -1,6 +1,8 @@
 # ml-contests
 Categorical list of ML and DL related challenges/contests. (Mostly CV related as of now)
 
+List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Conferences`
+
 [Why Challenges?](https://grand-challenge.org/Why_Challenges/)
 
 # Popular ones
