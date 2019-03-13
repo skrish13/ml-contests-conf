@@ -22,9 +22,41 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 - [Challenges in Machine Learning](http://www.chalearn.org/challenges.html)
 
 # Computer Vision
-- [EmotiW](https://sites.google.com/site/emotiw2016/) - Facial Expressions in the Wild
-  - Video based emotion recognition sub-challenge
-  - Group level emotion recognition sub-challenge
+
+## CVPR 19
+1. [Dependable Deep Detectors](https://inic8.bitbucket.io/DThree19/challenge.html)
+2. [Image Matching: Local Features and Beyond](https://image-matching-workshop.github.io/challenge/)
+3. [Automated Analysis of Marine Video for Environmental Monitoring](https://www.aamvem.com/data-challenge)
+4. [Long-Term Visual Localization under Changing Conditions](https://sites.google.com/view/ltvl2019/challenges)
+5. [Detection in the Wild Challenge](http://www.objects365.org/workshop2019.html)
+6. [The DAVIS Challenge on Video Object Segmentation 2019](https://davischallenge.org/challenge2019/index.html)
+7. [Egocentric Perception, Interaction and Computing](http://eyewear-computing.org/EPIC_CVPR19/important_dates.html)
+8. [Visual Question Answering and Dialog](https://visualqa.org/workshop.html)
+9. [Deep Learning for Geometric Shape Understanding](http://ubee.enseeiht.fr/skelneton/)
+10. [Autonomous Driving Beyond Single-Frame Perception](http://wad.ai/challenge.html)
+11. [The Sixth Workshop on Fine-Grained Visual Categorization](https://sites.google.com/view/fgvc6/competitions)
+12. [ActivityNet Large Scale Activity Recognition Challenge 2019](http://activity-net.org/challenges/2019/)
+13. [Computer Vision for UAVs](https://sites.google.com/site/uavision2019/challenge)
+14. [Second Landmark Recognition Workshop](https://landmarksworkshop.github.io/CVPRW2019/)
+15. [Scene Understanding and Modeling Challenge](https://sumochallenge.org/)
+16. [Workshop and Challenge on Learned Image Compression](https://www.compression.cc)
+17. [Benchmarking Multi-Target Tracking](https://motchallenge.net/workshops/bmtt2019/index.html)
+18. [Visual Understanding by learning from Web Data](https://www.vision.ee.ethz.ch/webvision/workshop.html)
+19. [3rd Look Into Person Challenge](https://vuhcs.github.io)
+20. [Low-Power Image Recognition Challenge](https://rebootingcomputing.ieee.org/lpirc)
+21. [2019 AI City Challenge](https://www.aicitychallenge.org/)
+22. [ReID and Multi-Target Multi-Camera Tracking Challenge](https://reid-mct.github.io/2019/)
+23. [CARLA Autonomous Driving Challenge](https://carlachallenge.org/workshop/)
+24. [Bridging the Gap between Computational Photography and Visual Recognition](http://www.ug2challenge.org/)
+25. [Conceptual Caption Challenge](http://www.conceptualcaptions.com/challenge)
+26. [Probabilistic Object Detection Challenge](https://nikosuenderhauf.github.io/roboticvisionchallenges/cvpr2019)
+27. [Restoration and Enhancements in Images and Videos](http://www.vision.ee.ethz.ch/ntire19/)
+28. [CV Problems in Plant Phenotyping](https://www.plant-phenotyping.org/CVPPP2019-Challenge)
+29. [3D-Reconstruction Challenge](https://sites.google.com/view/3d-widget/challenge)
+30. [ChaLearn Face Anti-spoofing Attack Detection Challenge](http://chalearnlap.cvc.uab.es/workshop/32/description/)
+31. [1st Learning from Imperfect Data (LID) Challenge](https://lidchallenge.github.io/)
+32. [Detecting Objects in Aerial Images](https://captain-whu.github.io/DOAI2019/)
+33. [Workshop on Autonomous Driving](https://sites.google.com/view/wad2019/challenge)
   
 ## ECCV 18
 Challenges (associated with workshops) in ECCV 2018
@@ -43,12 +75,10 @@ Challenges (associated with workshops) in ECCV 2018
 12. [The Visual Object Tracking Challenge Workshop VOT2018](http://www.votchallenge.net/vot2018/)
 13. [ChaLearn Challenges on Image and Video Inpainting](http://chalearnlap.cvc.uab.es/challenge/26/description/)
 14. [Challenge of Fashion Image Generation](https://sites.google.com/view/eccvfashion/fashion-challenge)
-
-##### Website not up yet
-1. [1st Large-scale Video Object Segmentation Challenge](https://eccv2018.org/program/workshops_tutorials/)
-2. [VizWiz Grand Challenge: Answering Visual Questions from Blind People](https://arxiv.org/abs/1802.08218)
-3. [ApolloScape: 3D Understanding for Autonomous Driving](https://eccv2018.org/program/workshops_tutorials/)
-4. [2nd Workshop on Youtube-8M Large-Scale Video Understanding](https://research.google.com/workshop2017/)
+15. [1st Large-scale Video Object Segmentation Challenge](https://eccv2018.org/program/workshops_tutorials/)
+16. [VizWiz Grand Challenge: Answering Visual Questions from Blind People](https://arxiv.org/abs/1802.08218)
+17. [ApolloScape: 3D Understanding for Autonomous Driving](https://eccv2018.org/program/workshops_tutorials/)
+18. [2nd Workshop on Youtube-8M Large-Scale Video Understanding](https://research.google.com/workshop2017/)
 
 ## CVPR 18
 Challenges (associated with workshops) in CVPR 2018
@@ -108,6 +138,9 @@ Challenges (associated with workshops) in CVPR 2017
     - **Untrimmed Classification Challenge**: Given a long video, predict the labels of the activities present in the video. 
     - **Detection Challenge**: Given a long video, predict the labels and temporal extents of the activities present in the video.
 2. [DAVIS Challenge](http://davischallenge.org/) - Densely Annotated VIdeo Segmentation
+
+## ICMI 16/17/18/19
+- [EmotiW](https://sites.google.com/site/emotiw2016/)
 
 # Healthcare - Medical Imaging
 
