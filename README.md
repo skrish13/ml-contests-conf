@@ -57,6 +57,7 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 31. [1st Learning from Imperfect Data (LID) Challenge](https://lidchallenge.github.io/)
 32. [Detecting Objects in Aerial Images](https://captain-whu.github.io/DOAI2019/)
 33. [Workshop on Autonomous Driving](https://sites.google.com/view/wad2019/challenge)
+34. [Habitat: Embodied Agents Challenge](https://github.com/facebookresearch/habitat-challenge)
   
 ## ECCV 18
 Challenges (associated with workshops) in ECCV 2018
