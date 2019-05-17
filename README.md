@@ -23,7 +23,46 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 
 # Computer Vision
 
-## CVPR 19
+## ICCV 19 (60 workshops)
+1. [AM	Multi-Discipline Approach for Learning Concepts - Zero-Shot, One-Shot, Few-Shot and Beyond](http://www.lsfsl.net/ws/)
+2. [Vision Meets Drones 2019: A Challenge](http://www.aiskyeye.com/)
+3. [Joint COCO and Mapillary Recognition Challenge](http://cocodataset.org/#home)*
+4. [3rd ICCV Workshop on e-Heritage and Dunhuang Challenge](http://www.eheritage-ws.org/)*
+5. [The 2nd Large-scale Video Object Segmentation Challenge](https://youtube-vos.org/challenge/2019/)
+6. [Computer Vision for Wildlife Conservation (CVWC)](https://cvwc2019.github.io/challenge.html)
+7. [Open Images Challenge](https://storage.googleapis.com/openimages/web/challenge2019.html#vrd)
+8. [Comprehensive Video Understanding in the Wild (CoVieW 2019)](http://cvlab.hanyang.ac.kr/coview2019/)
+9. [Visual Perception for Robot Navigation in Human Environment: The JackRabbot Dataset](https://jrdb.stanford.edu/workshops/jrdb-iccv19/)
+10. [Lightweight Face Recognition Challenge](https://ibug.doc.ic.ac.uk/resources/lightweight-face-recognition-challenge-workshop/)
+11. [Linguistics Meets Image and Video Retrieval](https://sites.google.com/view/lingir/challenge)
+12. [WIDER Face and Person Challenge](http://wider-challenge.org/2019.html)
+13. [The Visual Object Tracking Challenge Workshop VOT2019](http://www.votchallenge.net/vot2019/)
+14. [The 3rd YouTube-8M Large-Scale Video Understanding Workshop](https://research.google.com/youtube8m/workshop2018/)
+15. [Person in Context Challenge (PIC)](http://picdataset.com/challenge/index/)
+16. [Physics Based Vision meets Deep Learning (PBDL)](https://pbdl2019.github.io/challenge.html)
+17. [Autonomous Driving-2nd](https://adworkshop.org/program/)
+18. [Transfeering and Adaptive Source Knowledge in Computer Vision (TASK-CV)](https://sites.google.com/view/task-cv2019)
+19. [Computer Vision for Fashion, Art and Design](https://sites.google.com/view/cvcreative)
+20. [Multimodal Video Analysis and Moments in Time](https://sites.google.com/view/multimodalvideo/challenges)
+21. [2nd 3D Face Alignment in the Wild Challenge & Workshop (3DFAW)](https://3dfaw.github.io/)
+22. [AutoNUE: Augonomous Navigation in Unconstrained Environments](http://cvit.iiit.ac.in/autonue2019/challenge.html)
+
+`* denotes latest website not up yet`
+
+#### Not officially a contest
+- [Egocentric Perception Interaction and Computing (EPIC)](http://www.eyewear-computing.org/EPIC_ICCV19/)
+- [Video Retrieval Methods and Their Limitations (ViRaL)](https://sites.google.com/view/viral2019/home/supported-datasets)
+- [Scene Graph Representation and Learning](https://cs.stanford.edu/people/ranjaykrishna/sgrl/index.html)
+- [Large Scale Holistic Video Understanding](https://holistic-video-understanding.github.io/workshops/iccv2019.html)
+
+#### Not sure as no website yet
+- Disguised Faces in the Wild
+- 3D Reconstruction in the Wild
+- MS-Celeb-1M
+- few more as well
+
+
+## CVPR 19 (88 workshops)
 1. [Dependable Deep Detectors](https://inic8.bitbucket.io/DThree19/challenge.html)
 2. [Image Matching: Local Features and Beyond](https://image-matching-workshop.github.io/challenge/)
 3. [Automated Analysis of Marine Video for Environmental Monitoring](https://www.aamvem.com/data-challenge)
