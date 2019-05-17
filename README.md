@@ -23,7 +23,7 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 
 # Computer Vision
 
-## ICCV 19 (60 workshops)
+## ICCV 19
 1. [AM	Multi-Discipline Approach for Learning Concepts - Zero-Shot, One-Shot, Few-Shot and Beyond](http://www.lsfsl.net/ws/)
 2. [Vision Meets Drones 2019: A Challenge](http://www.aiskyeye.com/)
 3. [Joint COCO and Mapillary Recognition Challenge](http://cocodataset.org/#home)*
@@ -62,7 +62,7 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 - few more as well
 
 
-## CVPR 19 (88 workshops)
+## CVPR 19
 1. [Dependable Deep Detectors](https://inic8.bitbucket.io/DThree19/challenge.html)
 2. [Image Matching: Local Features and Beyond](https://image-matching-workshop.github.io/challenge/)
 3. [Automated Analysis of Marine Video for Environmental Monitoring](https://www.aamvem.com/data-challenge)
