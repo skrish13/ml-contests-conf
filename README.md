@@ -24,7 +24,7 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 # Computer Vision
 
 ## ICCV 19
-1. [AM	Multi-Discipline Approach for Learning Concepts - Zero-Shot, One-Shot, Few-Shot and Beyond](http://www.lsfsl.net/ws/)
+1. [Multi-Discipline Approach for Learning Concepts - Zero-Shot, One-Shot, Few-Shot and Beyond](http://www.lsfsl.net/ws/)
 2. [Vision Meets Drones 2019: A Challenge](http://www.aiskyeye.com/)
 3. [Joint COCO and Mapillary Recognition Challenge](http://cocodataset.org/#home)*
 4. [3rd ICCV Workshop on e-Heritage and Dunhuang Challenge](http://www.eheritage-ws.org/)*
@@ -41,11 +41,12 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 15. [Person in Context Challenge (PIC)](http://picdataset.com/challenge/index/)
 16. [Physics Based Vision meets Deep Learning (PBDL)](https://pbdl2019.github.io/challenge.html)
 17. [Autonomous Driving-2nd](https://adworkshop.org/program/)
-18. [Transfeering and Adaptive Source Knowledge in Computer Vision (TASK-CV)](https://sites.google.com/view/task-cv2019)
+18. [Transfering and Adaptive Source Knowledge in Computer Vision (TASK-CV)](https://sites.google.com/view/task-cv2019)
 19. [Computer Vision for Fashion, Art and Design](https://sites.google.com/view/cvcreative)
 20. [Multimodal Video Analysis and Moments in Time](https://sites.google.com/view/multimodalvideo/challenges)
 21. [2nd 3D Face Alignment in the Wild Challenge & Workshop (3DFAW)](https://3dfaw.github.io/)
 22. [AutoNUE: Augonomous Navigation in Unconstrained Environments](http://cvit.iiit.ac.in/autonue2019/challenge.html)
+23. [Closing the Loop Between Vision and Language & LSMD Challenge](https://sites.google.com/site/iccv19clvllsmdc/)
 
 `* denotes latest website not up yet`
 
