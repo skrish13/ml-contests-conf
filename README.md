@@ -23,6 +23,47 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 
 # Computer Vision
 
+## CVPR 20
+1. [WebVision Image Classification](http://www.vision.ee.ethz.ch/webvision/challenge.html)
+2. [Challenges for Computer Vision  in Agriculture](https://www.agriculture-vision.com/prize-challenge)
+3. [Thermal Image Super-Resolution Challenge](http://vcipl-okstate.org/pbvs/20/challenge.html)
+4. [Low-rate and P-frame compression challenges](http://challenge.compression.cc/motivation/)
+5. [Diagram Image Retrieval and Analysis (DIRA) Challenge](http://cvpr-dira.lipingyang.org/challenge/)
+6. [Low-Power Computer Vision Competition](http://www.lpcv.ai/)
+7. [Emotionet Challenge](http://cbcsl.ece.ohio-state.edu/enc-2020/index.html)
+8. [Image Matching: Local Features and Beyond](https://image-matching-workshop.github.io/)
+9. [New Trends in Image Restoration and Enhancement Challenges (NTIRE)](http://www.vision.ee.ethz.ch/ntire20/)
+10. [UG2+ Prize Challenge](http://cvpr2020.ug2challenge.org/)
+11. [5th International Skin Imaging Collaboration (ISIC) Workshop on Skin Image Analysis](https://workshop2020.isic-archive.com/)
+12. [Weakly Supervised Learning Challenges](https://lidchallenge.github.io/challenge.html)
+13. [6th SpaceNet Challenge](https://www.grss-ieee.org/earthvision2020/challenge.html)
+14. [MOTChallenge](https://motchallenge.net/workshops/bmtt2020/tracking.html)
+15. [DAVIS Video Object Segmentation](https://davischallenge.org/challenge2020/index.html)
+16. [Anti-UAV Challenge](https://anti-uav.github.io/dataset/)
+17. [AI City Challenge](https://www.aicitychallenge.org/2020-challenge-tracks/)
+18. [VizWiz Grand Challenge](https://vizwiz.org/workshops/2020-workshop/)
+19. [VQA and Dialog Challenges](https://visualqa.org/workshop)
+20. [Continual Learning Challenge](https://sites.google.com/view/clvision2020/challenge)
+21. [Cross-Domain Few-Shot Learning (CD-FSL) Challenge](https://www.learning-with-limited-labels.com/challenge)
+22. [DeepFashion2 and FashionIQ Challenges](https://sites.google.com/view/cvcreative2020#h.p_Qypem5p_Nm6c)
+23. [The Seventh Workshop on Fine-Grained Visual Categorization](https://sites.google.com/view/fgvc7)
+24. [ActivityNet Challenge](http://activity-net.org/challenges/2020/)
+25. [Challenge on Remote Physiological Signal Sensing](https://competitions.codalab.org/competitions/22287)
+26. [Localization, Odometry, SLAM Challenge](https://sites.google.com/view/vislocslamcvpr2020/home)
+
+#### Details not sure yet
+
+1. [2nd ScanNet Indoor Scene Understanding Challenge](http://www.scan-net.org/cvpr2020workshop/)
+2. [The End-of-End-to-End A Video Understanding Pentathlon](https://www.robots.ox.ac.uk/~vgg/video-pentathlon)
+3. [RetailCV](https://sites.google.com/view/retailcv)
+4. [Text and Documents in the Deep Learning Era](https://cvpr2020text.wordpress.com/challenge/)
+5. [Embodied-AI](https://embodied-ai.org/)
+6. [Workshop on Autonomous Driving](https://sites.google.com/view/wad2019/cvpr2020)
+7. Deep Learning for Geometric Computing Workshop
+8. Extreme classification in computer vision
+
+- Around 30 competitions out of 70 workshops.
+
 ## ICCV 19
 1. [Multi-Discipline Approach for Learning Concepts - Zero-Shot, One-Shot, Few-Shot and Beyond](http://www.lsfsl.net/ws/)
 2. [Vision Meets Drones 2019: A Challenge](http://www.aiskyeye.com/)
