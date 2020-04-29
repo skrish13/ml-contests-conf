@@ -11,6 +11,7 @@
 # Bio-Medical related:
 - International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
 - IEEE International Symposium on Biomedical Imaging (ISBI)
+- [Medical Imaging with Deep Learning (MIDL)](https://2020.midl.io/)
 - [SIIM Scientific Conference on Machine Intelligence in Medical Imaging (MIMI)](https://siim.org/page/2016CMIMI)
 - [FUNCTIONAL IMAGING AND MODELLING OF THE HEART](https://fimh2017.joomla.com/)
 - IEEE Transaction on Medical Imaging (IEEE-TMI)
