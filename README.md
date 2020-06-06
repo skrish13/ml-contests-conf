@@ -23,6 +23,38 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 
 # Computer Vision
 
+## ECCV 20
+1. [EPIC-KITCHENS Challenge](https://eyewear-computing.org/EPIC_ECCV20/)
+2. [Action Learning From Realistic Environments and Directives](https://askforalfred.com/EVAL/)
+3. [Holistic 3D Vision Challenge](https://holistic-3d.github.io/eccv20/)
+4. [COCO+LVIS Challenge](http://cocodataset.org/workshop/coco-lvis-eccv-2020.html)
+5. [Tracking Any Object Challenge](https://taodataset.org/workshop/)
+6. [Visual Domain Adaptation Challenge](https://sites.google.com/view/task-cv2020/home)
+7. [Commands 4 Autonomous Vehicles](https://c4av-2020.github.io/)
+8. [Compositionality and Multimodal Perception Challenge](https://camp-workshop.stanford.edu/)
+9. [Visual Inductive Priors Challenge](https://vipriors.github.io/)
+10. [3D Poses in the Wild Challenge](https://virtualhumans.mpi-inf.mpg.de/3DPW_Challenge/)
+11. [MLAD Challenge](https://sites.google.com/view/mlad-eccv2020/home)
+12. [Moments in Time Challenge](https://sites.google.com/view/multimodalvideo-v2)
+13. [Benchmark for 6D Object Pose Estimation](http://cmp.felk.cvut.cz/sixd/workshop_2020/)
+14. [Recovery of textured 3D scans](https://cvi2.uni.lu/sharp2020/)
+15. [Advances in Image Manipulation Challenges](https://data.vision.ee.ethz.ch/cvl/aim20/)
+16. [UAVision+Visdrone Challenges](https://sites.google.com/site/uavisionvisdrone2020/challenge)
+17. [Tiny Object Detection + Under-Display Camera Challenge](https://rlq-tod.github.io/)
+18. [Robust Vision Challenge](http://www.robustvision.net/)
+19. [VOT Challenge](https://www.votchallenge.net/index.html)
+20. [DramaQA Challenge](https://dramaqa.snu.ac.kr/Workshop/2020)
+21. [Fair Face Recognition Challenge](http://chalearnlap.cvc.uab.es/workshop/37/description/)
+22. [GigaVision Challenge](http://gigavision.cn/)
+23. [Instance Level Recognition Challenges](https://ilr-workshop.github.io/ECCVW2020/)
+24. [Trajectory Forecasting Challenge](https://sites.google.com/view/btfm2020/challenge)
+25. [Robotic Vision Challenges](https://nikosuenderhauf.github.io/roboticvisionchallenges/index)
+26. [Visual Localization Challenge](https://sites.google.com/view/ltvl2020/challenges)
+27. [Sensing, Understanding and Synthesizing Humans](https://sense-human.github.io/)
+28. [Leaf Segmentation and Counting Challenge](https://www.plant-phenotyping.org/CVPPP2020)
+
+- 28 competitions out of 45 workshops
+
 ## CVPR 20
 1. [WebVision Image Classification](http://www.vision.ee.ethz.ch/webvision/challenge.html)
 2. [Challenges for Computer Vision  in Agriculture](https://www.agriculture-vision.com/prize-challenge)
