@@ -23,6 +23,24 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 
 # Computer Vision
 
+## NeurIPS 2020
+1. [2020 ChaLearn 3D+Texture Garment Reconstruction](http://chalearnlap.cvc.uab.es/challenge/40/description/)
+2. [Black-Box Optimization for Machine Learning](http://bbochallenge.com/)
+3. [Diagnostic Questions: Predicting Student Responses and Measuring Question Quality](https://www.microsoft.com/en-us/research/event/diagnostic-questions-neurips2020/)
+4. [Efficient Open-Domain Question Answering](http://efficientqa.github.io/)
+5. [Flatland Challenge](https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge/)
+6. [Hide-and-Seek Privacy Challenge: Synthetic Data Generation vs. Patient Re-identification with Clinical Time-series Data](http://www.vanderschaar-lab.com/privacy-challenge/)
+7. [INTERPRET: INTERACTION-Dataset-based PREdicTion Challenge](http://challenge.interaction-dataset.com/prediction-challenge/intro)
+8. [Learning to run a power network in a sustainable world](https://l2rpn.chalearn.org/)
+9. [NLC2CMD](http://ibm.biz/nlc2cmd)
+10. [Predicting Generalization in Deep Learning](https://sites.google.com/view/pgdl2020)
+11. [Procgen Challenge](https://www.aicrowd.com/challenges/neurips-2020-procgen-competition)
+12. [SpaceNet 7: Multi-Temporal Urban Development Challenge](https://spacenet.ai/)
+13. [The 2020 MineRL Competition on Sample Efficient Reinforcement Learning using Human Priors](http://minerl.io/competition)
+14. [The 5th AI Driving Olympics](https://driving-olympics.ai/)
+15. [The Hateful Memes Challenge](https://ai.facebook.com/hatefulmemes)
+16. [Traffic4cast 2020](https://www.iarai.ac.at/traffic4cast/)
+
 ## ECCV 20
 1. [EPIC-KITCHENS Challenge](https://eyewear-computing.org/EPIC_ECCV20/)
 2. [Action Learning From Realistic Environments and Directives](https://askforalfred.com/EVAL/)
