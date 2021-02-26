@@ -23,6 +23,47 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 
 # Computer Vision
 
+## CVPR 2021
+1. [Workshop on Neural Architecture Search: 1st lightweight NAS challenge and moving beyond](cvpr21-nas.com)
+2. [2nd Workshop on Visual Perception for Navigation in Human Environments:The JackRabbot Social Grouping and Activity Dataset and Benchmark](https://jrdb.stanford.edu/workshops/jrdb-cvpr21)
+3. [New Trends in Image Restoration and Enhancement Workshop and Challenges](https://data.vision.ee.ethz.ch/cvl/ntire21/)
+4. [SHApe Recovery from Partial Textured 3D Scans](https://cvi2.uni.lu/sharp2021/)
+5. [International Workshop and Challenge on Long-form Video Understanding](https://sites.google.com/view/loveucvpr21)
+6. [VizWiz Grand Challenge: Describing Images Taken by Blind People](https://vizwiz.org/workshops/2021-workshop/)
+7. [Sixth International Skin Imaging Collaboration (ISIC) Workshop on Skin Image Analysis](https://workshop2021.isic-archive.com/)
+8. [Mobile AI Workshop and Challenges](http://ai-benchmark.com/workshops/mai/2021/)
+9. [The 4th Workshop and Prize Challenge: Bridging the Gap between Computational Photography  and Visual Recognition (UG2+) in conjunction with IEEE CVPR 2021](http://cvpr2021.ug2challenge.org/)
+10. [4th Workshop and Challenge on Learned Image Compression](http://compression.cc)
+11. [5th AI City Challenge](https://www.aicitychallenge.org/)
+12. [Large-scale Video Object Segmentation Challenge](https://youtube-vos.org/challenge/2021/)
+13. [ChaLearn Looking at People Series Workshop: Sign Language Recognition in the Wild & Large Scale Signer Independent Isolated SLR Challenge](http://chalearnlap.cvc.uab.es/workshop/42/description/)
+14. [3rd ScanNet Indoor Scene Understanding Challenge](http://www.scan-net.org/cvpr2021workshop/)
+15. [International Challenge on Activity Recognition](http://activity-net.org/challenges/2021/)
+16. [The 2nd International Workshop and Prize Challenge on Agriculture-Vision: Challenges & Opportunities for Computer Vision in Agriculture](https://www.agriculture-vision.com/)
+17. [1st Workshop and Challenge on Computer Vision in the Built Environment for the Design, Construction, and Operation of Buildings](http://cv4aec.github.io)
+18. [Learning from Limited or Imperfect Data](https://l2id.github.io/)
+19. [Open World Vision](http://www.cs.cmu.edu/~shuk/open-world-vision.html)
+20. [Vision for All Seasons: Adverse Weather and Lighting Conditions](https://vision4allseasons.net/)
+21. [The 3rd Person in Context workshop](http://picdataset.com/challenge/index/)
+22. [Workshop on Adversarial Machine Learning in Real-World Computer Vision Systems and Online Challenges](https://aisecure-workshop.github.io/amlcvpr2021/)
+23. [Continual Learning in Computer Vision](https://sites.google.com/view/clvision2021)
+24. [Robust Video Scene Understanding: Tracking and Video Segmentation](https://eval.vision.rwth-aachen.de/rvsu-workshop21/)
+25. [EarthVision: Large Scale Computer Vision for Remote Sensing Imagery](https://www.grss-ieee.org/earthvision2021/)
+26. [Image Matching: Local Features and Beyond](https://image-matching-workshop.github.io/)
+27. [Chart Question Answering Workshop](https://cqaw.github.io)
+28. [17th IEEE Workshop on Perception Beyond the Visible Spectrum](https://pbvs-workshop.github.io/)
+29. [2nd Embodied AI Workshop](https://embodied-ai.org/)
+30. [8th Workshop on Fine-Grained Visual Categorization](https://sites.google.com/view/fgvc8)
+31. [GAZE 2021: The 3rd International Workshop on Gaze Estimation and Prediction in the Wild](https://gazeworkshop.github.io)
+32. [Frontiers of monocular 3D perception](https://sites.google.com/view/mono3d-workshop)
+33. [Autonomous Navigation in Unconstrained Environments](http://cvit.iiit.ac.in/autonue2021/)
+
+##### Maybe
+34. [RetailVision - Revolutionizing the World of Retail](https://retailvisionworkshop.github.io/)
+35. [Eighth International Workshop on Egocentric Perception, Interaction and Computing](https://eyewear-computing.org/EPIC_CVPR21/)
+36. [Second international workshop on large scale holistic video understanding](https://holistic-video-understanding.github.io/workshops/cvpr2021.html)
+- More than 30 Competitions out of [83 workshops](https://gist.github.com/skrish13/665fccf048b32ec3e14daafe406bc072). Some workshop websites are not setup yet.
+
 ## NeurIPS 2020
 1. [2020 ChaLearn 3D+Texture Garment Reconstruction](http://chalearnlap.cvc.uab.es/challenge/40/description/)
 2. [Black-Box Optimization for Machine Learning](http://bbochallenge.com/)
@@ -41,7 +82,7 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 15. [The Hateful Memes Challenge](https://ai.facebook.com/hatefulmemes)
 16. [Traffic4cast 2020](https://www.iarai.ac.at/traffic4cast/)
 
-## ECCV 20
+## ECCV 2020
 1. [EPIC-KITCHENS Challenge](https://eyewear-computing.org/EPIC_ECCV20/)
 2. [Action Learning From Realistic Environments and Directives](https://askforalfred.com/EVAL/)
 3. [Holistic 3D Vision Challenge](https://holistic-3d.github.io/eccv20/)
@@ -73,7 +114,7 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 
 - 28 competitions out of 45 workshops
 
-## CVPR 20
+## CVPR 2020
 1. [WebVision Image Classification](http://www.vision.ee.ethz.ch/webvision/challenge.html)
 2. [Challenges for Computer Vision  in Agriculture](https://www.agriculture-vision.com/prize-challenge)
 3. [Thermal Image Super-Resolution Challenge](http://vcipl-okstate.org/pbvs/20/challenge.html)
