@@ -24,7 +24,7 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 # Computer Vision
 
 ## CVPR 2021
-1. [Workshop on Neural Architecture Search: 1st lightweight NAS challenge and moving beyond](cvpr21-nas.com)
+1. [Workshop on Neural Architecture Search: 1st lightweight NAS challenge and moving beyond](https://www.cvpr21-nas.com/)
 2. [2nd Workshop on Visual Perception for Navigation in Human Environments:The JackRabbot Social Grouping and Activity Dataset and Benchmark](https://jrdb.stanford.edu/workshops/jrdb-cvpr21)
 3. [New Trends in Image Restoration and Enhancement Workshop and Challenges](https://data.vision.ee.ethz.ch/cvl/ntire21/)
 4. [SHApe Recovery from Partial Textured 3D Scans](https://cvi2.uni.lu/sharp2021/)
