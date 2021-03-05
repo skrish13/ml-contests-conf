@@ -57,11 +57,12 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 31. [GAZE 2021: The 3rd International Workshop on Gaze Estimation and Prediction in the Wild](https://gazeworkshop.github.io)
 32. [Frontiers of monocular 3D perception](https://sites.google.com/view/mono3d-workshop)
 33. [Autonomous Navigation in Unconstrained Environments](http://cvit.iiit.ac.in/autonue2021/)
+34. [First International Workshop on Affective Understanding in Video](First International Workshop on Affective Understanding in Video)
 
 ##### Maybe
-34. [RetailVision - Revolutionizing the World of Retail](https://retailvisionworkshop.github.io/)
-35. [Eighth International Workshop on Egocentric Perception, Interaction and Computing](https://eyewear-computing.org/EPIC_CVPR21/)
-36. [Second international workshop on large scale holistic video understanding](https://holistic-video-understanding.github.io/workshops/cvpr2021.html)
+35. [RetailVision - Revolutionizing the World of Retail](https://retailvisionworkshop.github.io/)
+36. [Eighth International Workshop on Egocentric Perception, Interaction and Computing](https://eyewear-computing.org/EPIC_CVPR21/)
+37. [Second international workshop on large scale holistic video understanding](https://holistic-video-understanding.github.io/workshops/cvpr2021.html)
 - More than 30 Competitions out of [83 workshops](https://gist.github.com/skrish13/665fccf048b32ec3e14daafe406bc072). Some workshop websites are not setup yet.
 
 ## NeurIPS 2020
