@@ -57,7 +57,7 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 31. [GAZE 2021: The 3rd International Workshop on Gaze Estimation and Prediction in the Wild](https://gazeworkshop.github.io)
 32. [Frontiers of monocular 3D perception](https://sites.google.com/view/mono3d-workshop)
 33. [Autonomous Navigation in Unconstrained Environments](http://cvit.iiit.ac.in/autonue2021/)
-34. [First International Workshop on Affective Understanding in Video](First International Workshop on Affective Understanding in Video)
+34. [First International Workshop on Affective Understanding in Video](https://sites.google.com/view/auvi-cvpr2021/challenge)
 
 ##### Maybe
 35. [RetailVision - Revolutionizing the World of Retail](https://retailvisionworkshop.github.io/)
