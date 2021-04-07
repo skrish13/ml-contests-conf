@@ -23,6 +23,32 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 
 # Computer Vision
 
+## ACM MM 2021
+1. [Deep Video Understanding Challenge](https://sites.google.com/view/dvuchallenge2021/home/)
+2. [Pre-training for Video Understanding Challenge](http://auto-video-captions.top/2021/)
+3. [Robust Logo Detection](https://s.alibaba.com/challenge/ACMMM2021ChallengeRobustLogoDetection/)
+4. [Delay sensitive multimedia Challenge: Meet Deadline Requirements](https://www.aitrans.online/MMGC2021/)
+5. [The 3rd Video Relation Understanding Challenge](https://videorelation.nextcenter.org)
+6. [GigaTracking: When Multi-Object Tracking meets Gigapixel Videography](http://www.gigavision.cn/ACMMM2021_main.html)
+7. [Multi-modal ads video understanding](https://algo.qq.com/index.html?rfisource=ACM/)
+8. [MultiMediate: Multi-modal Group Behaviour Analysis for Artificial Mediation](https://multimediate-challenge.org/)
+9. [Facial Micro-Expression (FME) Challenge](https://megc2021.github.io/)
+
+## ICDAR 2021
+1. [Scientific Literature Parsing](https://icdar2021.org/competitions/competition-on-scientific-literature-parsing/)
+2. [Historical Document Classification](https://lme.tf.fau.de/competitions/icdar-2021-competition-on-historical-document-classification/)
+3. [Document Visual Question Answering](https://icdar2021.org/competitions/docvqa/)
+4. [Scene Video Text Spotting](https://competitions.codalab.org/competitions/27667)
+5. [Integrated Circuit Text Spotting and Aesthetic Assessment](https://ictext.v-one.my/)
+6. [Components Segmentation Task of Document Photos](https://icdar2021.poli.br/)
+7. [Historical Map Segmentation](https://icdar21-mapseg.github.io)
+8. [Time-Quality Document Image Binarization](https://dib.cin.ufpe.br/#!/competitions/icdar2021 )
+9. [On-Line Signature Verification](https://sites.google.com/view/SVC2021/home)
+10. [Script Identification in the Wild](https://sites.google.com/view/ICDAR21-SIW2021/home)
+11. [Scientific Table Image Recognition to LaTeX](https://competitions.codalab.org/competitions/26979)
+12. [Multimodal Emotion Recognition on Comics Scenes](https://emoreccom.univ-lr.fr)
+13. [Mathematical Formula Detection](http://transcriptorium.eu/~htrcontest/MathsICDAR2021/)
+
 ## CVPR 2021
 1. [Workshop on Neural Architecture Search: 1st lightweight NAS challenge and moving beyond](https://www.cvpr21-nas.com/)
 2. [2nd Workshop on Visual Perception for Navigation in Human Environments:The JackRabbot Social Grouping and Activity Dataset and Benchmark](https://jrdb.stanford.edu/workshops/jrdb-cvpr21)
@@ -58,9 +84,9 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 32. [Frontiers of monocular 3D perception](https://sites.google.com/view/mono3d-workshop)
 33. [Autonomous Navigation in Unconstrained Environments](http://cvit.iiit.ac.in/autonue2021/)
 34. [First International Workshop on Affective Understanding in Video](https://sites.google.com/view/auvi-cvpr2021/challenge)
+35. [RetailVision - Revolutionizing the World of Retail](https://retailvisionworkshop.github.io/)
 
 ##### Maybe
-35. [RetailVision - Revolutionizing the World of Retail](https://retailvisionworkshop.github.io/)
 36. [Eighth International Workshop on Egocentric Perception, Interaction and Computing](https://eyewear-computing.org/EPIC_CVPR21/)
 37. [Second international workshop on large scale holistic video understanding](https://holistic-video-understanding.github.io/workshops/cvpr2021.html)
 - More than 30 Competitions out of [83 workshops](https://gist.github.com/skrish13/665fccf048b32ec3e14daafe406bc072). Some workshop websites are not setup yet.
@@ -142,12 +168,12 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 24. [ActivityNet Challenge](http://activity-net.org/challenges/2020/)
 25. [Challenge on Remote Physiological Signal Sensing](https://competitions.codalab.org/competitions/22287)
 26. [Localization, Odometry, SLAM Challenge](https://sites.google.com/view/vislocslamcvpr2020/home)
+27. [Revolutionizing the World of Retail - New Computer Vision Challenges](https://retailvisionworkshop.github.io/)
 
 #### Details not sure yet
 
 1. [2nd ScanNet Indoor Scene Understanding Challenge](http://www.scan-net.org/cvpr2020workshop/)
 2. [The End-of-End-to-End A Video Understanding Pentathlon](https://www.robots.ox.ac.uk/~vgg/video-pentathlon)
-3. [RetailCV](https://sites.google.com/view/retailcv)
 4. [Text and Documents in the Deep Learning Era](https://cvpr2020text.wordpress.com/challenge/)
 5. [Embodied-AI](https://embodied-ai.org/)
 6. [Workshop on Autonomous Driving](https://sites.google.com/view/wad2019/cvpr2020)
