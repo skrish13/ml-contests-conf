@@ -23,6 +23,31 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 
 # Computer Vision
 
+## NeurIPS 2021
+1. [BASALT: A MineRL Competition on Solving Human-Judged Tasks](https://minerl.io/basalt/)
+2. [Billion-Scale Approximate Nearest Neighbor Search Challenge](http://big-ann-benchmarks.com/)
+3. [Diamond: A MineRL Competition on Training Sample-Efficient Agents](https://www.aicrowd.com/challenges/neurips-2021-minerl-competition)
+4. [Enhanced Zero-Resource Speech Challenge 2021: Language Modelling from Speech and Images](https://zerospeech.com/2021/)
+5. [Evaluating Approximate Inference in Bayesian Deep Learning](https://izmailovpavel.github.io/neurips_bdl_competition/)
+6. [HEAR 2021: Holistic Evaluation of Audio Representations](https://neuralaudio.ai/hear2021-holistic-evaluation-of-audio-representations.html)
+7. [IGLU: Interactive Grounded Language Understanding in a Collaborative Environment](https://www.iglu-contest.net/)
+8. [Image similarity challenge](https://sites.google.com/view/isc2021)
+9. [Learning By Doing: Controlling a Dynamical System using Control Theory, Reinforcement Learning, or Causality](http://learningbydoingcompetition.github.io/)
+10. [Machine Learning for Combinatorial Optimization](https://www.ecole.ai/2021/ml4co-competition/)
+11. [Machine Learning for Mechanical Ventilation Control](https://competition.deluca.fyi/)
+12. [MetaDL: Few Shot Learning Competition with Novel Datasets from Practical Domains](https://metalearning.chalearn.org/)
+13. [Multimodal Single-Cell Data Integration](https://openproblems.bio/NeurIPS_2021)
+14. [Open Catalyst Challenge](https://opencatalystproject.org/)
+15. [Real Robot Challenge II](https://real-robot-challenge.com/)
+16. [Reconnaissance Blind Chess](https://rbc.jhuapl.edu/)
+17. [Shifts Challenge: Robustness and Uncertainty under Real-World Distributional Shift](https://research.yandex.com/shifts)
+18. [The AI Driving Olympics](http://driving-olympics.ai/)
+19. [The BEETL 2021 Competition: Benchmarks for EEG Transfer Learning](https://beetl.ai/)
+20. [The NetHack Challenge](https://nethackchallenge.com/)
+21. [Traffic4cast 2021 — Temporal and Spatial Few-Shot Transfer Learning in Traffic Map Movie Forecasting](https://www.iarai.ac.at/traffic4cast/)
+22. [VisDA21: Visual Domain Adaptation](http://ai.bu.edu/visda-2021/)
+23. [WebQA Competition](https://webqna.github.io/)
+
 ## ACM MM 2021
 1. [Deep Video Understanding Challenge](https://sites.google.com/view/dvuchallenge2021/home/)
 2. [Pre-training for Video Understanding Challenge](http://auto-video-captions.top/2021/)
