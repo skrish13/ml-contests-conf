@@ -13,6 +13,7 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 - [Kaggle](https://www.kaggle.com/)
 - [CrowdAI](https://www.aicrowd.com/) ([Legacy](https://www.crowdai.org/))
 - [DrivenData](https://www.drivendata.org)
+- [Tianchi](https://tianchi.aliyun.com/)
 
 ## Research oriented
 - [evalAI](https://evalai.cloudcv.org/)
