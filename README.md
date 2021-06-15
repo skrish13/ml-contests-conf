@@ -25,6 +25,52 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 
 # Computer Vision
 
+## ICCV 2021
+1. [First Workshop on Airborne Object Tracking (AOT)](https://zontakm9.github.io/aot-iccvw21/)
+2. [2nd Workshop and Competition on Affective Behavior Analysis in-the-wild](https://ibug.doc.ic.ac.uk/resources/iccv-2021-2nd-abaw/)
+3. [3rd Advances in Image Manipulation Workshop and Challenges](https://data.vision.ee.ethz.ch/cvl/aim21/)
+4. [3rd ICCV Workshop on Physics Based Vision meets Deep Learning (PBDL2021)](pbdl-ws.github.io)
+5. [4th Workshop on Long-Term Visual Localization under Changing Conditions](https://sites.google.com/view/ltvl2021/)
+6. [5th International Workshop on Computer Vision for UAVs (UAVision2021)](https://sites.google.com/view/uavision2021/)
+7. [6th Workshop on Benchmarking Multi-Target Tracking:Segmenting and Tracking Every Point and Pixel](https://motchallenge.net/workshops/bmtt2021)
+8. [AI-enabled Medical Image Analysis Workshop and Covid-19 Diagnosis Competition (MIA-COV19D)](https://mlearn.lincoln.ac.uk/mia-cov19d/)
+9. [Computer Vision in Plant Phenotyping and Agriculture (CVPPA)](https://cvppa2021.github.io/)
+10. [LargeFineFoodAI: Large-Scale Fine-Grained Food AnalysIs](https://foodai-workshop.meituan.com/foodai2021.html#index)
+11. [Learning to Understand Aerial Images (LUAI)](https://captain-whu.github.io/LUAI2021/)
+12. [Low-Power Computer Vision Workshop](https://lpcv.ai/)
+13. [Multi-Agent Interaction and Relational Reasoning](https://www.mair2.com/)
+14. [Multi-camera Multiple People Tracking Workshop](https://iccv2021-mmp.github.io/)
+15. [Multi-Modal Video Reasoning and Analyzing Competition](https://sutdcv.github.io/multi-modal-video-reasoning/)
+16. [Ninth International Workshop on Egocentric Perception, Interaction and Computing: Introducing Ego4D - a massive first-person dataset and challenge](https://eyewear-computing.org/EPIC_ICCV21/)
+17. [Occluded Video Instance Segmentation](https://ovis-workshop.github.io)
+18. [Self-supervised Learning for Next-Generation Industry-level Autonomous Driving](https://sslad2021.github.io/)
+19. [The 1st Workshop on Video Scene Parsing in the Wild](https://www.vspwdataset.com/Workshop%202021)
+20. [The 4th Instance-Level Recognition Workshop](https://ilr-workshop.github.io/ICCVW2021/)
+21. [The Third Workshop on Deep Learning for Geometric Computing](https://sites.google.com/view/dlgc-workshop-iccv2021/)
+22. [Understanding Social Behavior in Dyadic and Small Group Interactions (DYAD)](http://chalearnlap.cvc.uab.es/workshop/44/description/)
+23. [The ROAD challenge: Event detection for situation awareness in autonomous driving](https://sites.google.com/view/roadchallangeiccv2021/)
+24. [1st Workshop, Benchmark, and Challenge on Human Trajectory and Pose Dynamics Forecasting in the Wild](https://somof.stanford.edu/workshops/iccv21)
+25. [Catch UAVs that Want to Watch You: Detection and Tracking of Unmanned Aerial Vehicle (UAV) in the Wild and the 2nd Anti-UAV Challenge](https://anti-uav.github.io/)
+26. [DeeperAction: Challenge and Workshop on Localized and Detailed Understanding of Human Actions in Videos](https://deeperaction.github.io/)
+27. [Face Bio-metrics under COVID (Masked Face Recognition Challenge)](https://ibug.doc.ic.ac.uk/resources/masked-face-recognition-challenge-workshop-iccv-21/)
+28. [ICCV'2021: The 1st Challenge on Large Scale Point-cloud Analysis for Urban Scenes Understanding](https://urban3dchallenge.github.io/)
+29. [International Challenge on Compositional and Multimodal Perception](https://campworkshop.org/)
+30. [LVIS Challenge Workshop](https://www.lvisdataset.org/challenge_2021)
+31. [Open-World Video Object Detection and Segmentation Challenge](https://sites.google.com/view/unidentified-video-object/workshop-and-challenge)
+32. [The 2nd Challenge Workshop on Remote Physiological Signal Sensing (RePSS) Associated with ICCV 2021](https://competitions.codalab.org/competitions/30855)
+33. [the 3rd Chalearn Face cch-spoofing Workshop and Challenge](https://sites.google.com/qq.com/face-anti-spoofing/welcome/challengeiccv2021?authuser=0)
+34. [Vision for Vitals Workshop & Challenge](https://vision4vitals.github.io/)
+35. [Vision Meets Drones 2021: A Challenge](http://aiskyeye.com/)
+36. [2nd Visual Inductive Priors for Data-Efficient Deep Learning Workshop](https://vipriors.github.io/)
+37. [The 9th Visual object tracking challenge VOT2021 ](https://www.votchallenge.net/vot2021/)
+
+##### Maybe
+38. [2nd Workshop on Holistic Structures for 3D Vision ](https://holistic-3d.github.io/iccv21/)
+39. [Fourth Workshop on “Robust Subspace Learning and Applications in Computer Vision” ](https://rsl-cv.univ-lr.fr/2021/)
+40. [GigaVision: when gigapixel videography meets computer vision](www.gigavision.cn)
+41. [The 3rd International Workshop on Real-World Computer Vision from Inputs with Limited Quality (RLQ)](https://rlq-workshop.github.io)
+- More than 40 Competitions out of [84 workshops](https://gist.github.com/skrish13/682c7fa0b888fe088da91677f2d7dd6f). 5-6 workshop websites are not setup yet.
+
 ## NeurIPS 2021
 1. [BASALT: A MineRL Competition on Solving Human-Judged Tasks](https://minerl.io/basalt/)
 2. [Billion-Scale Approximate Nearest Neighbor Search Challenge](http://big-ann-benchmarks.com/)
@@ -112,10 +158,11 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 33. [Autonomous Navigation in Unconstrained Environments](http://cvit.iiit.ac.in/autonue2021/)
 34. [First International Workshop on Affective Understanding in Video](https://sites.google.com/view/auvi-cvpr2021/challenge)
 35. [RetailVision - Revolutionizing the World of Retail](https://retailvisionworkshop.github.io/)
+36. [Multi-Agent Behavior Modeling Challenge](https://sites.google.com/view/mabe21/challenge)
 
 ##### Maybe
-36. [Eighth International Workshop on Egocentric Perception, Interaction and Computing](https://eyewear-computing.org/EPIC_CVPR21/)
-37. [Second international workshop on large scale holistic video understanding](https://holistic-video-understanding.github.io/workshops/cvpr2021.html)
+37. [Eighth International Workshop on Egocentric Perception, Interaction and Computing](https://eyewear-computing.org/EPIC_CVPR21/)
+38. [Second international workshop on large scale holistic video understanding](https://holistic-video-understanding.github.io/workshops/cvpr2021.html)
 - More than 30 Competitions out of [83 workshops](https://gist.github.com/skrish13/665fccf048b32ec3e14daafe406bc072). Some workshop websites are not setup yet.
 
 ## NeurIPS 2020
