@@ -22,6 +22,7 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 - [grand-challenge](https://grand-challenge.org/All_Challenges/) - Challenges in Medical Image Analysis
 - [Artificial Intelligence - Open Network](http://ai-on.org/) - Collection of open research problems
 - [Challenges in Machine Learning](http://www.chalearn.org/challenges.html)
+- [The CLEF Cross Language Image Retrieval Track](https://www.imageclef.org/2023)
 
 # Computer Vision
 
