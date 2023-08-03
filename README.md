@@ -26,6 +26,19 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 
 # Computer Vision
 
+## ACM MM 2023
+
+1. [MultiMediate: Multi-modal Behaviour Analysis for Artificial Mediation](https://multimediate-challenge.org/)
+2. [Deep Video Understanding (DVU) 2023](https://sites.google.com/view/dvuchallenge2023/home)
+3. [MER 2023: Multi-label Learning, Semi-Supervised Learning, and Modality Robustness](http://merchallenge.cn/)
+4. [Conversational Head Generation Challenge](https://vico.solutions/challenge/2023)
+5. [REACT 2023 Challenge: Multiple Appropriate Facial Reaction Generation in Dyadic Interaction](https://sites.google.com/cam.ac.uk/react2023/home)
+6. [Visual Text Question Answer (VTQA) Challenge](https://visual-text-QA.github.io/)
+7. [Facial Micro-Expression Grand Challenge](https://megc2023.github.io/)
+8. [SMP Challenge (Social Media Prediction Challenge) ](https://smp-challenge.com/)
+9. [Invisible Video Watermark ](https://challenge.ai.mgtv.com/contest/detail/18?locale=en)
+10. [ACM Multimedia Computational Paralinguistics Challenge (ComParE)](http://www.compare.openaudio.eu/)
+
 ## ICCV 2021
 1. [First Workshop on Airborne Object Tracking (AOT)](https://zontakm9.github.io/aot-iccvw21/)
 2. [2nd Workshop and Competition on Affective Behavior Analysis in-the-wild](https://ibug.doc.ic.ac.uk/resources/iccv-2021-2nd-abaw/)
