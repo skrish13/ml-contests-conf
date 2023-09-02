@@ -24,6 +24,10 @@ List of conferences/journals for Vision, Medical Imaging, ML, DL inside `Confere
 - [Challenges in Machine Learning](http://www.chalearn.org/challenges.html)
 - [The CLEF Cross Language Image Retrieval Track](https://www.imageclef.org/2023)
 
+# MLOps
+
+- [ZenML's Month of MLOps Competition](https://zenml.io/competition/) - October 10 to November 11, 2022
+
 # Computer Vision
 
 ## ACM MM 2023
